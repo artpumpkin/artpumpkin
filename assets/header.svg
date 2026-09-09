@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Salah-Eddine Lachkar</title>
+  <desc id="desc">Full-stack developer and technical lead. Thoughtful interfaces. Reliable systems.</desc>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="360" rx="18"/></clipPath>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#26392f"/><stop offset="1" stop-color="#182920"/></linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <g fill="none" stroke="#f3efdf" stroke-opacity=".13" stroke-width="1.2" transform="translate(1020 190) rotate(-24)">
+      <circle r="190"/><ellipse rx="150" ry="190"/><ellipse rx="95" ry="190"/><ellipse rx="35" ry="190"/>
+      <ellipse rx="190" ry="55"/><ellipse rx="190" ry="125"/><path d="M-190 0H190M0-190V190"/>
+    </g>
+    <path d="M832 280C881 301 1095 273 1176 182C1235 116 1118 31 1000 12" fill="none" stroke="#c68e69" stroke-width="2"/>
+    <circle cx="862" cy="285" r="5" fill="#c68e69"/>
+    <g transform="translate(48 38)">
+      <rect width="43" height="43" rx="11" fill="#f3efdf"/>
+      <path d="M11 10h11v3h-4v17h10l3-6h3l-2 10H11v-3h3V13h-3Z" fill="#29372e"/>
+      <path d="m29 7 5 5-5 5-5-5Z" fill="#9a4e33"/>
+    </g>
+    <text x="108" y="65" fill="#e2dccb" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">LACHKAR / ARTPUMPKIN</text>
+    <text x="48" y="159" fill="#f7f5ef" font-family="Georgia, 'Times New Roman', serif" font-size="56" letter-spacing="-1.8">Salah-Eddine Lachkar</text>
+    <text x="50" y="201" fill="#d1dbc8" font-family="Arial, Helvetica, sans-serif" font-size="20">Full-stack developer &amp; technical lead</text>
+    <path d="M50 236H110" stroke="#c68e69" stroke-width="3"/>
+    <text x="50" y="278" fill="#f3efdf" font-family="Georgia, 'Times New Roman', serif" font-size="24">Thoughtful interfaces. Reliable systems.</text>
+    <text x="50" y="325" fill="#b9c4b3" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">CASABLANCA, MOROCCO</text>
+  </g>
+</svg>
