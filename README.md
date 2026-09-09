@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://lachkar.me"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="https://lachkar.me/Salah_Eddine_Lachkar_CV.pdf"><strong>Download CV</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/salah-eddine-lachkar/"><strong>LinkedIn</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="mailto:lachkar.salah@outlook.com"><strong>Get in touch</strong></a>
 </p>
 
