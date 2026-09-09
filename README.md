@@ -13,6 +13,18 @@ I'm a full-stack developer based in **Casablanca, Morocco**. I build web applica
 
 My work spans trading platforms, Web3 applications, desktop tools, and creative coding. I've grown from frontend development into technical leadership, while staying hands-on with **React, TypeScript, and Node.js**.
 
+### Open-source projects
+
+A selection of personal projects, from desktop engineering to creative coding.
+
+| Project | What you can explore |
+| :--- | :--- |
+| **[Mosaic](https://github.com/artpumpkin/mosaic-desktop)** | A Tauri/Rust desktop workspace for finance, health, media, calls, and local tools—with an embedded mpv player. |
+| **[Portfolio & chess](https://github.com/artpumpkin/portfolio)** | Next.js and Three.js, accessible chess interaction, offline support, and desktop/mobile browser tests. |
+| **[Quaternion Spiral](https://github.com/artpumpkin/quaternion-spiral)** | An interactive spherical-spiral experiment using quaternions, React, and Three.js. |
+| **[Intcode Computer](https://github.com/artpumpkin/intcode-computer)** | A resumable JavaScript virtual machine, sparse memory, a CLI, and execution-boundary tests. |
+| **[Canvas Clock](https://github.com/artpumpkin/canvas-clock)** | A small dependency-free Canvas project with accessible controls and high-density rendering. |
+
 ### Work with context
 
 | Project | My contribution |
