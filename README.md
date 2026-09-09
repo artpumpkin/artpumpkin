@@ -17,7 +17,7 @@ My work spans trading platforms, Web3 applications, desktop tools, and creative 
 | Project | My contribution |
 | :--- | :--- |
 | **[MRPNL](https://mrpnl.com)** | Full-stack engineering and project management for a trading education platform: administration, content, learning progress, and invoice workflows. |
-| **TickTickTrader** | Technical advisor → technical lead. Built administration interfaces, backend integrations, and market tools; led a team of approximately seven. |
+| **[TickTickTrader](https://tickticktrader.com)** | Technical advisor → technical lead. Built administration interfaces, backend integrations, and market tools; led a team of approximately seven. |
 | **[Idescape](https://idescape.com)** | Agency website development with responsive layouts, accessible interactions, form validation, and deployment. |
 | **[Personal portfolio](https://lachkar.me)** | Next.js portfolio with playable Three.js chess puzzles, keyboard controls, a 2D fallback, and offline access. |
 
