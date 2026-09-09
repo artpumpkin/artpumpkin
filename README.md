@@ -32,6 +32,7 @@ A selection of personal projects, from desktop engineering to creative coding.
 | **[MRPNL](https://mrpnl.com)** | Full-stack engineering and project management for a trading education platform: administration, content, learning progress, and invoice workflows. |
 | **[TickTickTrader](https://tickticktrader.com)** | Technical advisor → technical lead. Built administration interfaces, backend integrations, and market tools; led a team of approximately seven. |
 | **[Idescape](https://idescape.com)** | Agency website development with responsive layouts, accessible interactions, form validation, and deployment. |
+| **[SAFAR](https://arabic.emi.ac.ma/safar/index.html)** | Master's research project with EMI (2020–2021): React/Chakra UI frontend, English/Arabic and right-to-left layouts, data exports, speech input, PWA features, and comparison of Python Arabic NLP tools. |
 | **[Personal portfolio](https://lachkar.me)** | Next.js portfolio with playable Three.js chess puzzles, keyboard controls, a 2D fallback, and offline access. |
 
 More projects and the story behind them are on **[my portfolio](https://lachkar.me/#work)**.
@@ -46,7 +47,12 @@ More projects and the story behind them are on **[my portfolio](https://lachkar.
 
 ### Beyond the day job
 
-I explore **Three.js and Canvas**, build desktop tools, and create reusable AI workflows. I also hold a **Master in Data Science & Big Data**, with research work on collaborative Arabic NLP interfaces.
+I explore **Three.js and Canvas**, build desktop tools, and create reusable AI workflows.
+
+### Education
+
+- **Master in Data Science & Big Data** — Hassan II University, Casablanca · 2019–2021
+- **Bachelor in Mathematics & Computer Science** — Hassan II University, Casablanca · 2018–2019
 
 ---
 
