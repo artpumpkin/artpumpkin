@@ -29,7 +29,7 @@ A selection of personal projects, from desktop engineering to creative coding.
 
 | Project | My contribution |
 | :--- | :--- |
-| **[MRPNL](https://mrpnl.com)** | Full-stack engineering and project management for a trading education platform: administration, content, learning progress, and invoice workflows. |
+| **[MRPNL](https://mrpnl.com)** | Senior Software Engineer & Technical Lead for a trading education platform: full-stack development, team delivery, administration, content, learning progress, and invoice workflows. |
 | **[TickTickTrader](https://tickticktrader.com)** | Technical advisor → technical lead (March 2023–April 2026). Built administration interfaces, backend integrations, and market tools; led a team of approximately seven. |
 | **Chain Pixel Labs** | Junior → senior software engineer / technical lead. Built Web3 applications and led approximately three people. Main role: October 2021–March 2023; occasional support through January 2024. |
 | **[Idescape](https://idescape.com)** | Agency website development with responsive layouts, accessible interactions, form validation, and deployment. |
