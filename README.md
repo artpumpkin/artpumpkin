@@ -1,4 +1,4 @@
-<a href="https://lachkar.me"><img src="./assets/header.svg" width="100%" alt="Salah-Eddine Lachkar — Full-stack developer and technical lead. Thoughtful interfaces. Reliable systems." /></a>
+<a href="https://lachkar.me"><img src="./assets/header.svg" width="100%" alt="Salah-Eddine Lachkar — Senior software engineer and technical lead. Thoughtful interfaces. Reliable systems." /></a>
 
 <p align="center">
   <a href="https://lachkar.me"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
@@ -9,9 +9,9 @@
 
 ### Hi, I'm Salah.
 
-I'm a full-stack developer based in **Casablanca, Morocco**. I build web applications, connect the systems behind them, and help teams turn ideas into working products.
+I'm a **senior software engineer and technical lead** based in **Casablanca, Morocco**. I build full-stack web applications, connect the systems behind them, and help teams turn ideas into working products.
 
-My work spans trading platforms, Web3 applications, desktop tools, and creative coding. I've grown from frontend development into technical leadership, while staying hands-on with **React, TypeScript, and Node.js**.
+My work spans trading platforms, Web3 applications, desktop tools, and creative coding. I progressed from junior to senior software engineering and technical leadership, while staying hands-on with **React, Next.js, TypeScript, and Node.js**.
 
 ### Open-source projects
 
@@ -30,10 +30,11 @@ A selection of personal projects, from desktop engineering to creative coding.
 | Project | My contribution |
 | :--- | :--- |
 | **[MRPNL](https://mrpnl.com)** | Full-stack engineering and project management for a trading education platform: administration, content, learning progress, and invoice workflows. |
-| **[TickTickTrader](https://tickticktrader.com)** | Technical advisor → technical lead. Built administration interfaces, backend integrations, and market tools; led a team of approximately seven. |
+| **[TickTickTrader](https://tickticktrader.com)** | Technical advisor → technical lead (March 2023–April 2026). Built administration interfaces, backend integrations, and market tools; led a team of approximately seven. |
+| **Chain Pixel Labs** | Junior → senior software engineer / technical lead. Built Web3 applications and led approximately three people. Main role: October 2021–March 2023; occasional support through January 2024. |
 | **[Idescape](https://idescape.com)** | Agency website development with responsive layouts, accessible interactions, form validation, and deployment. |
 | **[SAFAR](https://arabic.emi.ac.ma/safar/index.html)** | Master's research project with EMI (2020–2021): React/Chakra UI frontend, English/Arabic and right-to-left layouts, data exports, speech input, PWA features, and comparison of Python Arabic NLP tools. |
-| **[Personal portfolio](https://lachkar.me)** | Next.js portfolio with playable Three.js chess puzzles, keyboard controls, a 2D fallback, and offline access. |
+| **[Personal portfolio](https://lachkar.me)** | Next.js portfolio with an interactive Three.js robotic arm, a still-image fallback, reduced-motion support, and offline access. |
 
 More projects and the story behind them are on **[my portfolio](https://lachkar.me/#work)**.
 
